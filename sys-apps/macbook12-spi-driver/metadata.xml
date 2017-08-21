@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "http://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+<longdescription>Very simple, work in progress input driver for the SPI keyboard / trackpad found on 12in MacBooks, as well a simple touchbar driver for 2016 MacBook Pro's</longdescription>
+<use>
+</use>
+</pkgmetadata>
